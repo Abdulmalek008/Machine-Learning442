@@ -1,4 +1,4 @@
-# 📦 Machine learning app 
+#🤖  Machine learning app 
 
 ⬆️ this is machine learning app.
 ## Demo App
